@@ -19,7 +19,36 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        Node* curr = root;
+        if(root == nullptr) return root;
+        queue<Node*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            int n = q.size();
+            for(int i = 0; i < n; i++){
+                Node* curr = q.front();
+                q.pop();
+                if(i == n-1 || q.empty()){
+                    curr->next = nullptr;
+                }else{
+                    curr->next = q.front();
+                }
+                if(curr->left){
+                    q.push(curr->left);
+                }
+                if(curr->right){
+                    q.push(curr->right);
+                }
+            }
+        }
+        return root;
+    }
+};
+
+
+/* 
+Linking the nodes TC -> O(N) SC -> O(1)
+Node* curr = root;
         while(curr){
             Node dummy(0);
             Node* tail = &dummy;
@@ -38,5 +67,5 @@ public:
               curr = dummy.next;
         }
            return root;
-    }
-};
+
+*/
