@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 ## String
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
