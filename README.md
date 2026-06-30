@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
