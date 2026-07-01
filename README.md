@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
