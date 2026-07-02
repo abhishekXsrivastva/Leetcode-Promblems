@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
