@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
@@ -126,15 +129,21 @@ A collection of LeetCode questions to ace the coding interview.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
