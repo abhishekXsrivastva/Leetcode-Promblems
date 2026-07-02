@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
