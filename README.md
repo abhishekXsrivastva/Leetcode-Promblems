@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0217-contains-duplicate) |
@@ -155,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
