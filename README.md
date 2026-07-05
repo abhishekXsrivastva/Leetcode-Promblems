@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 ## String
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
