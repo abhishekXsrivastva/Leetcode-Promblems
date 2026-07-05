@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
