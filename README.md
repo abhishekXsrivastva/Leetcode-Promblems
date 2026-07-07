@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0560-subarray-sum-equals-k](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
+| [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 ## String
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
+| [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
