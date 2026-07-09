@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 ## Heap (Priority Queue)
 |  |
