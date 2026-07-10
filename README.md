@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 ## String
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 ## Bit Manipulation
 |  |
 | ------- |
