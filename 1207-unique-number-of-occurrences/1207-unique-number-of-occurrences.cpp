@@ -9,11 +9,11 @@ public:
         unordered_set<int> seen;
 
         for(auto &it : mpp){
-            int unique = it.second;
-            if(seen.count(unique)){
+            int duplicate  = it.second;
+            if(seen.count(duplicate)){
             return false; 
             }
-             seen.insert(unique);
+             seen.insert(duplicate);
         }
         return true;
        
