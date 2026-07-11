@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1207-unique-number-of-occurrences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1207-unique-number-of-occurrences) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1207-unique-number-of-occurrences) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0169-majority-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0387-first-unique-character-in-a-string) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
