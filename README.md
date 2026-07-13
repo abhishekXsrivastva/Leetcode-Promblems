@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 ## Heap (Priority Queue)
