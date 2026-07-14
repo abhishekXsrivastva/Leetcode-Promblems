@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -267,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
