@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
