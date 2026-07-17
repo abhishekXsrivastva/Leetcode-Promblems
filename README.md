@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0054-spiral-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
