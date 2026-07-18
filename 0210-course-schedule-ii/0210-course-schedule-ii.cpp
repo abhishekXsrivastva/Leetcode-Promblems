@@ -9,7 +9,7 @@ public:
             adj[e[1]].push_back(e[0]);
         }
 
-        vector<int>inDegree(numCourses);
+        vector<int>inDegree(numCourses, 0);
         
         for(int i = 0; i < numCourses; i++){
             for(auto it : adj[i]){
