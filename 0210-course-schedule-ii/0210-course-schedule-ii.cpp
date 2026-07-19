@@ -1,16 +1,14 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int>res;
+        vector<int> res;
 
         vector<vector<int>> adj(numCourses);
-
         for(auto e : prerequisites){
             adj[e[1]].push_back(e[0]);
         }
 
-        vector<int>inDegree(numCourses, 0);
-        
+        vector<int> inDegree(numCourses);
         for(int i = 0; i < numCourses; i++){
             for(auto it : adj[i]){
                 inDegree[it]++;
@@ -25,21 +23,19 @@ public:
         }
 
         while(!q.empty()){
-            int node  = q.front();
-            q.pop();
-            res.push_back(node);
+          int node = q.front();
+          q.pop();
+          res.push_back(node);
 
-            for(auto neigh : adj[node]){
-                inDegree[neigh]--;
-                if(inDegree[neigh] == 0){
-                    q.push(neigh);
-                }
+          for(auto it : adj[node]){
+            inDegree[it]--;
+            if(inDegree[it] == 0){
+                q.push(it);
             }
+          }
         }
 
         if(res.size() == numCourses) return res;
-
         return {};
-
     }
 };
