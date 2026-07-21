@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2652-sum-multiples](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |
