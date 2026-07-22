@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0001-two-sum](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0054-spiral-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0263-ugly-number) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
