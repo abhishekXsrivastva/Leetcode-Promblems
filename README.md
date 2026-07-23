@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0001-two-sum](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
