@@ -5,22 +5,20 @@ public:
         
         int res = 1;
         unordered_set<int> st;
-
         for(int num : nums){
             st.insert(num);
         }
 
-        for(auto& it : st){
-            if(st.find(it-1) == st.end()){
-                int x = it;
+        for(auto i : st){
+            if(st.find(i - 1) == st.end()){
+                int x = i;
                 int cnt = 1;
-
                 while(st.find(x+1) != st.end()){
-                    x += 1;
-                    cnt += 1; 
+                    x = x + 1;
+                    cnt++;
                 }
-                 res = max(res, cnt);
-            }  
+                res = max(cnt, res);
+            }
         }
         return res;
     }
