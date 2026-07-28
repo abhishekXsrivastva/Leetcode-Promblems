@@ -30,8 +30,9 @@ public:
                    ncol >= 0 && ncol < n &&
                    grid[nrow][ncol] == 0 && 1 + dis < dist[nrow][ncol]){
                     dist[nrow][ncol] = 1 + dis;
-                    if(nrow == n-1 && ncol == n-1)
+                    if(nrow == n-1 && ncol == n-1) {
                         return dis + 1;
+                    }
                         q.push({dis+1, {nrow, ncol}});
                     
                }
