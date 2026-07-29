@@ -22,6 +22,31 @@ public:
 class Solution {
 public:
     Node* dfs(Node* cur, unordered_map<Node*, Node*>& mpp){
+        if(mpp.count(cur)){
+            return mpp[cur];
+        }
+
+        Node* clone = new Node(cur->val);
+        mpp[cur] = clone;
+        for(auto neigh : cur->neighbors){
+            clone->neighbors.push_back(dfs(neigh, mpp));
+        }
+        return clone;
+    }
+    Node* cloneGraph(Node* node) {
+        unordered_map<Node*, Node*> mpp;
+        if(node == NULL) return nullptr;
+
+        return dfs(node, mpp);
+    }
+};
+
+
+/*
+
+class Solution {
+public:
+    Node* dfs(Node* cur, unordered_map<Node*, Node*>& mpp){
         vector<Node*> neigh;
         Node* clone = new Node(cur->val);
         mpp[cur] = clone;
@@ -46,3 +71,4 @@ public:
         return dfs(node, mpp);
     }
 };
+*/
