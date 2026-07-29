@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -300,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
