@@ -20,7 +20,7 @@ public:
                 }
             }
         }
-        int maxCity = n+1;
+        int minCity = n+1;
         int cityNo = -1;
 
         for(int i = 0; i < n; i++){
@@ -30,8 +30,8 @@ public:
                     cnt++;
                 }
                 }
-                if(cnt <= maxCity){
-                    maxCity = cnt;
+                if(cnt <= minCity){
+                    minCity = cnt;
                     cityNo = i;
             }
         }
