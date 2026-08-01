@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> dist(n, vector<int>(n, 1e9));
+      /*  vector<vector<int>> dist(n, vector<int>(n, 1e9));
 
         for(auto it : edges){
             dist[it[0]][it[1]] = it[2];
@@ -35,6 +35,59 @@ public:
                     cityNo = i;
             }
         }
-        return cityNo;
+        return cityNo; */
+
+           vector<vector<pair<int, int>>> adj(n);
+        for(auto e : edges){
+            adj[e[0]].push_back({e[1], e[2]});
+            adj[e[1]].push_back({e[0], e[2]});
+        }
+        
+        int minCity = 1e9;
+        int res = -1;
+        
+        for(int src = 0; src < n; src++){
+            vector<int> dist(n, 1e9);
+            dist[src] = 0;
+            
+            priority_queue<pair<int,int>,
+                           vector<pair<int, int>>,
+                           greater<pair<int, int>>> pq;
+            
+            pq.push({0, src});
+            
+            while(!pq.empty()){
+                auto it = pq.top();
+                pq.pop();
+                int dis = it.first;
+                int node = it.second;
+                
+                if(dis > dist[node]) continue;
+                
+                for(auto it : adj[node]){
+                    int adjNode = it.first;
+                    int wt = it.second;
+                    
+                    if(dis + wt < dist[adjNode]){
+                        dist[adjNode] = dis + wt;
+                        pq.push({dist[adjNode], adjNode});
+                    }
+                }
+            }
+            int cnt = 0;
+            for(int i = 0; i < n; i++){
+                if(src != i && dist[i] <= distanceThreshold){
+                    cnt++;
+                }
+            }
+            
+            
+            if(cnt <= minCity){
+                minCity = cnt;
+                res = src;
+            }
+           
+        }
+        return res;
     }
 };
