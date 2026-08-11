@@ -56,7 +56,7 @@ public:
                 }
             }
         }
-        int largestIslant = 0;
+        int largestIsland = 0;
    
         for(int row = 0; row < n; row++){
             for(int col = 0; col < n; col++){
@@ -79,13 +79,13 @@ public:
         for(auto it : parentComp){
             totalSize += dsu.size[it];
         }
-        largestIslant = max(largestIslant, totalSize + 1);
+        largestIsland = max(largestIsland, totalSize + 1);
         }
         }
 
         for(int i = 0; i < n*n; i++){
-            largestIslant = max(largestIslant, dsu.size[dsu.parent[i]]);
+            largestIsland = max(largestIsland, dsu.size[dsu.parent[i]]);
         }
-        return largestIslant;
+        return largestIsland;
     }
 };
