@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1110-delete-nodes-and-return-forest](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1207-unique-number-of-occurrences) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0493-reverse-pairs) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
