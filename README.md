@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0802-find-eventual-safe-states) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0575-distribute-candies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0493-reverse-pairs) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
@@ -347,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -407,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1192-critical-connections-in-a-network) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
