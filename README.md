@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0207-course-schedule](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
