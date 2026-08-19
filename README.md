@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
