@@ -1,8 +1,7 @@
-
-class DisjoinedSet{
+class DisjointSet{
     public:
     vector<int> parent, size;
-    DisjoinedSet(int n){
+    DisjointSet(int n){
         parent.resize(n+1);
         for(int i = 0; i < n; i++){
             parent[i] = i;
@@ -34,21 +33,21 @@ class DisjoinedSet{
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        
-        int V = isConnected.size();
-        DisjoinedSet dsu(V);
-        for(int i = 0; i < V; i++){
-            for(int j = i+1; j < V; j++){
-                if(isConnected[i][j] == 1){
-                dsu.unionBySize(i, j);
+        int v = isConnected.size();
+        DisjointSet dsu(v);
+        for(int row = 0; row < v; row++){
+            for(int col = 0; col < v; col++){
+                if(isConnected[row][col] == 1){
+                    dsu.unionBySize(row, col);
                 }
             }
         }
-        int res = 0;
-         for(int i = 0; i < V; i++){
-            if(dsu.parent[i] == i) res++;
-         }
+        int numProvinces{0};
+        for(int i = 0; i < v; i++){
+            if(dsu.findParent(i) == i) numProvinces++;
+        }
 
-         return res;
+        return numProvinces;
+
     }
 };
