@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0234-palindrome-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
