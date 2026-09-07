@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0141-linked-list-cycle) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
