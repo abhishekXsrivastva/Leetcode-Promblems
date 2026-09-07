@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
+   /* ListNode* reverseLL(ListNode* head){
         if(!head || !head->next){
             return head;
         }
@@ -18,33 +18,45 @@ public:
         head->next->next = head;
         head->next = NULL;
         return last;
-    }
+    } */
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        l1 = reverseLL(l1);
-        l2 = reverseLL(l2);
+        // l1 = reverseLL(l1);
+        // l2 = reverseLL(l2);
+       
+       ListNode* res = nullptr;
 
-       ListNode* dummy = new ListNode();
-       ListNode* temp = dummy;
+       stack<int> stk1;
+       stack<int> stk2;
+
+       while(l1){
+        stk1.push(l1->val);
+        l1 = l1->next;
+       }
+
+       while(l2){
+        stk2.push(l2->val);
+        l2 = l2->next;
+       }
 
        int carry = 0;
-
-       while(l1 != nullptr || l2 != nullptr || carry){
-        int sum = 0;
-        if(l1){
-           sum += l1->val;
-           l1 = l1->next;
+    
+       while(!stk1.empty() || !stk2.empty() || carry){
+        int sum = carry;
+        if(!stk1.empty()){
+           sum += stk1.top();
+           stk1.pop();
         }
-        if(l2){
-            sum += l2->val;
-            l2 = l2->next;
+        if(!stk2.empty()){
+            sum += stk2.top();
+            stk2.pop();
         }
-        sum += carry;
+        
         carry = sum/10;
         ListNode* newNode = new ListNode(sum%10);
-        temp->next = newNode;
-        temp = temp->next;
-
+        newNode->next = res;
+        res = newNode;
+       
        }
-       return reverseLL(dummy->next);
+       return res; 
     }
 };
