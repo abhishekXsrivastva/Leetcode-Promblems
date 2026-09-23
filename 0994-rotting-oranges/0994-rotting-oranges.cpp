@@ -3,41 +3,48 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        queue<pair<pair<int, int> , int>> q;
-        int freshCount = 0;
-
+        vector<vector<int>> vis(n, vector<int> (m));
+        queue<pair<pair<int, int>, int>> q;
         for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
+            for(int j = 0; j< m; j++){
                 if(grid[i][j] == 2){
                     q.push({{i, j}, 0});
-                }else if(grid[i][j] == 1){
-                    freshCount++;
+                vis[i][j] = 2;
+                }else{
+                    vis[i][j] = 0;
                 }
             }
         }
-        int delRow[] = {-1, 0, 1, 0};
-        int delCol[] = {0, 1, 0, -1};
+        int totalTime = 0;
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
 
-        int minutes = 0;
         while(!q.empty()){
             int row = q.front().first.first;
             int col = q.front().first.second;
             int time = q.front().second;
-            minutes = max(minutes, time);
             q.pop();
-
-            for(int k = 0; k < 4; k++){
-                int nrow = row + delRow[k];
-                int ncol = col + delCol[k];
-                if(nrow >= 0 && nrow < n &&
-                   ncol >= 0 && ncol < m &&
-                   grid[nrow][ncol] == 1){
-                    grid[nrow][ncol] = 2;
-                    freshCount--;
-                    q.push({{nrow, ncol}, time+1});
+            totalTime = max(totalTime, time);
+            for(int i = 0; i < 4; i++){
+                int neighRow = row + dr[i];
+                int neighCol = col + dc[i];
+                if(neighRow >= 0 && neighRow < n &&
+                   neighCol >= 0 && neighCol < m &&
+                   vis[neighRow][neighCol] != 2 && grid[neighRow][neighCol] == 1){
+                    vis[neighRow][neighCol] = 2;
+                    q.push({{neighRow, neighCol}, time + 1});
                    }
             }
+
         }
-        return freshCount == 0 ? minutes : -1;
+       for(int i = 0; i < n; i++){
+        for(int j = 0; j < m; j++){
+            if(vis[i][j] != 2 && grid[i][j] == 1){
+                return -1;
+            }
+        }
+       }
+
+        return totalTime;
     }
 };
