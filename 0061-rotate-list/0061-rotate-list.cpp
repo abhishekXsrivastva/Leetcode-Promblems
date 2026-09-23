@@ -10,7 +10,19 @@
  */
 class Solution {
 public:
-    ListNode* getKthNode(ListNode* temp, int k){
+    int getLength(ListNode* head){
+        ListNode* tail = head;
+       int len = 1;
+        while(tail->next){
+            len++;
+            tail = tail->next;
+        }
+        return len;
+
+    }
+
+    ListNode* getKthNode(ListNode* head, int k){
+        ListNode* temp = head;
         int cnt = 1;
         while(temp){
             if(k == cnt) return temp;
@@ -19,19 +31,28 @@ public:
         }
         return temp;
     }
+    
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL || k == 0) return head;
-        ListNode* tail = head;
+
+       /* ListNode* tail = head;
         int len = 1;
         while(tail->next){
             tail = tail->next;
             len++;
+        } */
+        int length = getLength(head);
+        if(k % length == 0) return head;
+        k = k % length;
+
+
+        ListNode* tail = head;
+        while(tail->next){
+            tail = tail->next;
         }
-        if(k % len == 0) return head;
-        k = k % len;
         tail->next = head;
-        ListNode* temp = head;
-        ListNode* newLastNode = getKthNode(temp, len - k);
+
+        ListNode* newLastNode = getKthNode(head, length - k);
         head = newLastNode->next;
         newLastNode->next = NULL;
         return head;
