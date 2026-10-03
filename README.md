@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0283-move-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0493-reverse-pairs) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
