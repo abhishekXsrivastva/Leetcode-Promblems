@@ -3,9 +3,9 @@ public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        vector<vector<int>> dist(n, vector<int>(m, 0));
-        queue<pair<pair<int, int> ,int>> q;
+        vector<vector<int>> vis(n, vector<int> (m, 0));
+        vector<vector<int>> res(n, vector<int> (m, 0));
+        queue<pair<pair<int, int>, int>> q;
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
@@ -15,29 +15,31 @@ public:
                 }
             }
         }
+
         int delRow[] = {-1, 0, 1, 0};
         int delCol[] = {0, 1, 0, -1};
+
         while(!q.empty()){
             int row = q.front().first.first;
             int col = q.front().first.second;
             int steps = q.front().second;
-             q.pop();
-            dist[row][col] = steps;
-           
+            q.pop();
+            res[row][col] = steps;
 
             for(int k = 0; k < 4; k++){
-                int nRow = row + delRow[k];
-                int nCol = col + delCol[k];
+                int newRow = row + delRow[k];
+                int newCol = col + delCol[k];
 
-                if(nRow >= 0 && nRow < n &&
-                   nCol >= 0 && nCol < m &&
-                   vis[nRow][nCol] == 0){
-                    vis[nRow][nCol] = 1;
-                   q.push({{nRow, nCol}, steps+1});
-                    
+                if(newRow >= 0 && newRow < n &&
+                   newCol >= 0 && newCol < m &&
+                   vis[newRow][newCol] == 0){
+                    vis[newRow][newCol] = 1;
+                    q.push({{newRow, newCol}, steps + 1});
                    }
             }
+
         }
-        return dist;
+
+        return res;
     }
 };
