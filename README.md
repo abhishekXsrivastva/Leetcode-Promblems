@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0507-perfect-number) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2652-sum-multiples) |
 ## Two Pointers
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0743-network-delay-time](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -490,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0658-find-k-closest-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
