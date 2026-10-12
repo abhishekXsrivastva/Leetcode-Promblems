@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Biconnected Component
 |  |
@@ -504,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
