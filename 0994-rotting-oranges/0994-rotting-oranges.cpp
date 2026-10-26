@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int orangesRotting(vector<vector<int>>& grid) {
+    int solve(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<int>> vis(n, vector<int>(m, 0));
@@ -44,5 +44,10 @@ public:
             }
         }
         return minTime;
+    }
+    
+    int orangesRotting(vector<vector<int>>& grid) {
+       
+        return solve(grid);
     }
 };
