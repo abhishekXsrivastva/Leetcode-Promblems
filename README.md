@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
