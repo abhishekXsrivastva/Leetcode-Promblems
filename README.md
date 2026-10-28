@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0059-spiral-matrix-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 ## Prefix Sum
