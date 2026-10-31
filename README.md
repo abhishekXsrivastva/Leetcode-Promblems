@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0014-longest-common-prefix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0022-generate-parentheses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0090-subsets-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0054-spiral-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
