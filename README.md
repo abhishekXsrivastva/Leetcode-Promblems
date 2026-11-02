@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
 | [0929-unique-email-addresses](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0973-k-closest-points-to-origin) |
+| [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Math
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0733-flood-fill](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0827-making-a-large-island) |
+| [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0090-subsets-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0051-n-queens) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
