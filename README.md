@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1207-unique-number-of-occurrences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1631-path-with-minimum-effort) |
+| [2305-fair-distribution-of-cookies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2305-fair-distribution-of-cookies) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## String
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0491-non-decreasing-subsequences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2305-fair-distribution-of-cookies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0268-missing-number](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
+| [2305-fair-distribution-of-cookies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2305-fair-distribution-of-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2305-fair-distribution-of-cookies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2305-fair-distribution-of-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -555,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
