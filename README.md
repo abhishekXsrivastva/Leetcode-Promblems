@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0049-group-anagrams](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0387-first-unique-character-in-a-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0078-subsets](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0118-pascals-triangle](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekXsrivastva/Leetcode-Promblems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
